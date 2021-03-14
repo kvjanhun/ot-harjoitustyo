@@ -1,5 +1,3 @@
-Muutos GitHubissa.
-
 commit f362698b7b64288f821972b12baf3bad4281f803
 Author: kvjanhun <68062788+kvjanhun@users.noreply.github.com>
 Date:   Sun Mar 14 17:10:04 2021 +0200
