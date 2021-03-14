@@ -1,5 +1,8 @@
-# Ohjelmistotekniikka-kurssin harjoitustyö
+# Ohjelmistotekniikka, harjoitustyö
 
-## Tämä sisältää jotain.
+## Tehtävät
 
-*Erittäin* kiinnostavaa _jotain_ **sisältöä**.
+### Viikko 1
+[gitlog.txt](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+
+[komentorivi.txt](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
