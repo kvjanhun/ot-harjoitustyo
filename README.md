@@ -11,7 +11,9 @@
 #### unittest-harjoittelu
 [maksukortti](https://github.com/kvjanhun/ot-harjoitustyo/tree/master/laskarit/viikko2/maksukortti)
 
-[kassapaate](https://github.com/kvjanhun/ot-harjoitustyo/tree/master/laskarit/viikko2/)
+[unicafe](https://github.com/kvjanhun/ot-harjoitustyo/tree/master/laskarit/viikko2/unicafe)
+
+![alt text](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuusraportti.png "Kattavuusraportti")
 
 ## Dokumentaatio
 [Vaatimusmäärittely](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
