@@ -12,4 +12,5 @@
 
 ## Dokumentaatio
 [Vaatimusmäärittely](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
 [Työaikakirjanpito](https://github.com/kvjanhun/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
